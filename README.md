@@ -1,5 +1,5 @@
 # 经过确认，雨云最新优惠码是：**BT**  
-# 优惠链接：https://www.rainyun.com/BT_
+# 优惠链接：**[https://www.rainyun.com/BT_](https://www.rainyun.com/BT_)**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 四、如何使用优惠码BT？
 
-1. 访问雨云官网：https://www.rainyun.com/BT_ （已包含优惠码）
+1. 访问雨云官网：**[https://www.rainyun.com/BT_](https://www.rainyun.com/BT_)**（已包含优惠码）
 2. 注册账号，在优惠码栏确认已自动填写 **BT**（如未自动填写，请手动输入）。
 3. 完成注册并绑定微信，即可获得首月5折优惠券。
 4. 挑选心仪的云服务器产品，下单时使用优惠券，立享折扣。
